@@ -1,8 +1,8 @@
-package com.example.course.Resources;
+package com.example.course.resources;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.course.Entities.User;
+import com.example.course.entities.User;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
